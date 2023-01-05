@@ -1,0 +1,16 @@
+{
+  "name": "send-email-example",
+  "version": "1.0.0",
+  "description": "nodejs send email example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Aldi Ageng",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemailer": "^6.8.0"
+  }
+}
